@@ -35,6 +35,13 @@ var currentSong =0; // index song
 
 const playList = [
     {
+        src:"./acssets/mp3/ChungTaCuaHienTai.mp3",
+        nameSong:" Chúng Ta Của Hiện Tại- lofi",
+        singer: "MTP x CM1X",
+        img: "https://media.vov.vn/sites/default/files/styles/large/public/2021-02/chungtacuahientai.jpg"
+
+    },
+    {
         src:"./acssets/mp3/CoChacYeuLaDay.mp3",
         nameSong: "Có Chắc Yêu Là Đây",
         singer: "Sơn Tùng M-TP",
@@ -129,13 +136,7 @@ const playList = [
             img: "https://i.ytimg.com/vi/tYNX2E6v6jU/maxresdefault.jpg"
     
         },
-        {
-            src:"./acssets/mp3/ChungTaCuaHienTai.mp3",
-            nameSong:" Chúng Ta Của Hiện Tại- lofi",
-            singer: "MTP x CM1X",
-            img: "https://media.vov.vn/sites/default/files/styles/large/public/2021-02/chungtacuahientai.jpg"
-    
-        },
+      
         {
             src:"./acssets/mp3/BuongDoiTayNhauRa.mp3",
             nameSong:" Buông Đôi Tay Nhau Ra",
