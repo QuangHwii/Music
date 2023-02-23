@@ -42,6 +42,13 @@ const playList = [
 
     },
     {
+        src:"./acssets/mp3/Ngaydautien.mp3",
+        nameSong:" Ngày đầu tiên - lofi",
+        singer: "Đức Phúc",
+        img: "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2022/02/faa13fe1-57f2-4333-9025-d5262a68425e-5570.jpeg?fit=660%2C20000&quality=95&ssl=1"
+
+    },
+    {
         src:"./acssets/mp3/CoChacYeuLaDay.mp3",
         nameSong: "Có Chắc Yêu Là Đây",
         singer: "Sơn Tùng M-TP",
